@@ -9,8 +9,10 @@ This repo serve as a practice and is for the sole purpose of education. In reali
 ## 📁 Repository Contents
 
 - `SFT_training.ipynb` - Supervised fine-tuning training notebook
+- `Eval.ipynb` - Evaluation on hold out set
 - `Compare.ipynb` - Model comparison and evaluation notebook
 - `qwen3-do-not-ans-final.zip` - Trained LoRA adapters and model configuration
+- `notes.md` - Mini notes I compiled while reading up on the topic
 
 
 ## 📊 Training Details
