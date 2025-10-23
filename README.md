@@ -28,6 +28,13 @@ This repo serve as a practice and is for the sole purpose of education. In reali
 - **Adapters**: Available in `qwen3-do-not-ans-final/`
 
 
+## Observations from Eval:
+Despite being an educational practice, some positive results were observed! 
+- SFT responses are almost 2× closer semantically to your ideal refusals.
+- Fine-tuned model shows a much higher baseline and ceiling — meaning even its worst replies are closer to ideal than the base model’s best ones.
+- Strong gain in contextual similarity — SFT model’s language and tone align with safe templates, whereas the base model diverged significantly.
+- The fine-tuned model now consistently produces semantically meaningful and safe text, instead of unrelated or unsafe completions.
+
 -----
 
 
